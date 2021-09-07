@@ -1,0 +1,29 @@
+{
+  "name": "json_go_node_validation_comparison",
+  "version": "1.0.0",
+  "description": "Benchmark JSON validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fionahiklas/json_go_node_validation_comparison.git"
+  },
+  "keywords": [
+    "Go",
+    "JSON",
+    "Validation",
+    "Benchmark"
+  ],
+  "author": "Fiona Bianchi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fionahiklas/json_go_node_validation_comparison/issues"
+  },
+  "homepage": "https://github.com/fionahiklas/json_go_node_validation_comparison#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
